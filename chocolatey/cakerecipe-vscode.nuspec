@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>cakerecipe-vscode</id>
+    <version>0.0</version>
+    <owners>Gary Ewan Park</owners>
+    <title>Cake.Recipe VSCode extension</title>
+    <authors>Gary Ewan Park</authors>
+    <!-- projectUrl is required for the community feed -->
+    <projectUrl>https://github.com/gep13/cakerecipe-vscode</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/gep13/cakerecipe-vscode@e50644910e327ab525702c935f36f697117f5dd7/images/icon.png</iconUrl>
+    <copyright>Copyright (c) 2018 Gary Ewan Park</copyright>
+    <licenseUrl>https://github.com/gep13/cakerecipe-vscode/blob/develop/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/gep13/cakerecipe-vscode</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/gep13/cakerecipe-vscode/issues</bugTrackerUrl>
+    <tags>cakerecipe-vscode vscode extension</tags>
+    <summary>Cake.Recipe Extension for Visual Studio Code</summary>
+    <description>
+This extension brings support for Cake.Recipe to Visual Studio Code.
+
+## Commands
+The Cake.Recipe Visual Studio Code provides the following commands:
+
+- `Cake.Recipe: Add default recipe.cake file`
+    </description>
+    <releaseNotes>
+Full release notes found on [GitHub Release Page](https://github.com/gep13/cakerecipe-vscode/releases)</releaseNotes>
+    <dependencies>
+      <dependency id="vscode" version="1.24.0" /> <!-- Should be set to the minimum version the extension supports -->
+    </dependencies>
+  </metadata>
+  <!-- Files will be added during build -->
+</package>
