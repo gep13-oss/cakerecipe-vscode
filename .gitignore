@@ -1,0 +1,18 @@
+*.vsix
+out
+node_modules
+.vscode-test
+
+# Build related
+BuildArtifacts/
+tools/**
+!tools/packages.config
+
+# until we move to Yarn
+yarn.lock
+
+# Mac OS X files
+.DS_Store
+
+# License file copied to chocolatey directory
+chocolatey/tools/LICENSE.txt
