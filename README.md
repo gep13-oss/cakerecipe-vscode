@@ -44,7 +44,7 @@ You can find the documentation that is available for this project [here](https:/
 
 If you would like to see any features added for this VS Code Extension, feel free to raise an [issue](https://github.com/gep13/cakerecipe-vscode/issues), and if possible, a follow up pull request.
 
-You can also join in the Gitter Chat [![Join the chat at https://gitter.im/cakerecipe-vscode/community](https://badges.gitter.im/cakerecipe-vscode/community.svg)](https://gitter.im/cakerecipe-vscode/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+You can also join in the Gitter Chat [![Join the chat at https://gitter.im/gep13-oss/community](https://badges.gitter.im/gep13-oss/community.svg)](https://gitter.im/gep13-oss/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Releases
 
