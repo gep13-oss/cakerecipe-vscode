@@ -47,7 +47,7 @@ public class BuildParameters
                     { "Host",  WebHost },
                     { "LinkRoot",  WebLinkRoot },
                     { "BaseEditUrl", WebBaseEditUrl },
-                    { "Title", "Choco VS Code" },
+                    { "Title", "Cake.Recipe VS Code" },
                     { "IncludeGlobalNamespace", false }
                 };
 
@@ -193,7 +193,7 @@ public class BuildParameters
             ),
             SkipGitVersion = StringComparer.OrdinalIgnoreCase.Equals("True", context.EnvironmentVariable("CAKERECIPEVSCODE_SKIP_GITVERSION")),
             ChocolateyPackages = context.MakeAbsolute(context.Directory("BuildArtifacts/_Packages/chocolatey")),
-            WyamRootDirectoryPath = context.MakeAbsolute(context.Environment.WorkingDirectory),
+            WyamRootDirectoryPath = context.MakeAbsolute(context.Directory("docs")),
             WyamPublishDirectoryPath = context.MakeAbsolute(context.Directory("BuildArtifacts/_PublishedDocumentation")),
             WyamConfigurationFile = context.MakeAbsolute((FilePath)"config.wyam"),
             WyamRecipe = "Docs",
