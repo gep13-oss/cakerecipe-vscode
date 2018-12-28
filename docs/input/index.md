@@ -1,0 +1,3 @@
+# Cake.Recipe Visual Studio Code Extension Documentation
+
+More information coming soon...
