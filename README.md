@@ -26,7 +26,7 @@ The Cake.Recipe Visual Studio Code provides the following commands:
 
 ## Resources
 
-Short YouTube videos of each of the releases of this extension can be found in this [playlist]().
+Short YouTube videos of each of the releases of this extension can be found in this [playlist](https://www.youtube.com/playlist?list=PL84yg23i9GBgVQXtp9G2BEkcR6v-nCsoH).
 
 ## Installation
 
