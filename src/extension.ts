@@ -66,7 +66,7 @@ async function addDefaultBuildFile():Promise<void> {
     flags: 'a'
   });
 
-  buildFile.write('#load nuget:https://www.myget.org/F/cake-contrib/api/v2?package=Cake.Recipe&prerelease&version=0.3.0-unstable0403\n');
+  buildFile.write('#load nuget:https://www.myget.org/F/cake-contrib/api/v2?package=Cake.Recipe&prerelease\n');
   buildFile.write('\n');
   buildFile.write('Environment.SetVariableNames();\n');
   buildFile.write('\n');
