@@ -15,7 +15,9 @@
 		"noImplicitReturns": true,
 		"alwaysStrict": true,
 		"noImplicitThis": true,
-		"strict": true
+		"strict": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true
 	},
 	"exclude": [
 		"node_modules",

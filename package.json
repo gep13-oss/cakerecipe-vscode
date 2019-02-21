@@ -66,6 +66,10 @@
 		"typescript": "^3.3.3",
 		"vscode": "^1.1.29"
 	},
+	"dependencies": {
+		"inversify": "^5.0.1",
+		"reflect-metadata": "^0.1.13"
+	},
 	"extensionDependencies": [
 		"cake-build.cake-vscode"
 	]
