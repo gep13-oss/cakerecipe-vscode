@@ -8,5 +8,15 @@
         "**/bower_components": true,
         "logs/": true,
         "out/": true
-    }
+    },
+    "cSpell.words": [
+        "Veyor",
+        "buildscript",
+        "cakerecipe",
+        "icommand",
+        "inversify",
+        "nuget",
+        "vscodebuildscript",
+        "xunit"
+    ]
 }
