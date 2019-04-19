@@ -8,13 +8,13 @@
     <title>Cake.Recipe VSCode extension</title>
     <authors>Gary Ewan Park</authors>
     <!-- projectUrl is required for the community feed -->
-    <projectUrl>https://github.com/gep13/cakerecipe-vscode</projectUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/gep13/cakerecipe-vscode@fad27d1ffa1889ffb84721fc1e3f2b68b58d90eb/images/icon.png</iconUrl>
+    <projectUrl>https://github.com/gep13-oss/cakerecipe-vscode</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/gep13-oss/cakerecipe-vscode@fad27d1ffa1889ffb84721fc1e3f2b68b58d90eb/images/icon.png</iconUrl>
     <copyright>Copyright (c) 2018 Gary Ewan Park</copyright>
-    <licenseUrl>https://github.com/gep13/cakerecipe-vscode/blob/develop/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/gep13-oss/cakerecipe-vscode/blob/develop/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/gep13/cakerecipe-vscode</projectSourceUrl>
-    <bugTrackerUrl>https://github.com/gep13/cakerecipe-vscode/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/gep13-oss/cakerecipe-vscode</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/gep13-oss/cakerecipe-vscode/issues</bugTrackerUrl>
     <tags>cakerecipe-vscode vscode extension</tags>
     <summary>Cake.Recipe Extension for Visual Studio Code</summary>
     <description>
@@ -26,7 +26,7 @@ The Cake.Recipe Visual Studio Code provides the following commands:
 - `Cake.Recipe: Add default recipe.cake file`
     </description>
     <releaseNotes>
-Full release notes found on [GitHub Release Page](https://github.com/gep13/cakerecipe-vscode/releases)</releaseNotes>
+Full release notes found on [GitHub Release Page](https://github.com/gep13-oss/cakerecipe-vscode/releases)</releaseNotes>
     <dependencies>
       <dependency id="vscode" version="1.24.0" /> <!-- Should be set to the minimum version the extension supports -->
     </dependencies>

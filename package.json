@@ -10,12 +10,12 @@
 		"name": "gep13"
 	},
 	"bugs": {
-		"url": "https://github.com/gep13/cakerecipe-vscode/issues"
+		"url": "https://github.com/gep13-oss/cakerecipe-vscode/issues"
 	},
-	"homepage": "https://github.com/gep13/cakerecipe-vscode",
+	"homepage": "https://github.com/gep13-oss/cakerecipe-vscode",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/gep13/cakerecipe-vscode"
+		"url": "https://github.com/gep13-oss/cakerecipe-vscode"
 	},
 	"main": "./out/extension",
 	"galleryBanner": {
