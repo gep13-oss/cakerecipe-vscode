@@ -28,7 +28,7 @@ The Cake.Recipe Visual Studio Code provides the following commands:
     <releaseNotes>
 Full release notes found on [GitHub Release Page](https://github.com/gep13-oss/cakerecipe-vscode/releases)</releaseNotes>
     <dependencies>
-      <dependency id="vscode" version="1.30.0" /> <!-- Should be set to the minimum version the extension supports -->
+      <dependency id="vscode" version="1.33.0" /> <!-- Should be set to the minimum version the extension supports -->
       <dependency id="chocolatey-vscode.extension" version="1.0.0" />
     </dependencies>
   </metadata>
