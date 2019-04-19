@@ -15,9 +15,9 @@ else
 BuildParameters.SetParameters(context: Context,
                             buildSystem: BuildSystem,
                             title: "cakerecipe-vscode",
-                            repositoryOwner: "gep13",
+                            repositoryOwner: "gep13-oss",
                             repositoryName: "cakerecipe-vscode",
-                            appVeyorAccountName: "GaryEwanPark",
+                            appVeyorAccountName: "gep13oss",
                             shouldRunGitVersion: true);
 
 BuildParameters.PrintParameters(Context);
