@@ -47,7 +47,7 @@ export class VsCodeBuildScriptCommand implements ICommand {
 
     let buildFile = this.fileSystemService.createAppendWriteStream(buildScriptPath);
 
-    buildFile.write('#load nuget:https://www.myget.org/F/gep13/api/v2?package=Cake.VsCode.Recipe&prerelease\n');
+    buildFile.write('#load nuget:?package=Cake.Recipe&version=1.1.1\n');
     buildFile.write('\n');
     buildFile.write('Environment.SetVariableNames();\n');
     buildFile.write('\n');
