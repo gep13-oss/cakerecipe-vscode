@@ -64,7 +64,7 @@
 		"tslint": "^6.1.0",
 		"typemoq": "^2.1.0",
 		"typescript": "^3.8.3",
-		"vscode": "^1.1.36"
+		"vscode": "^1.1.37"
 	},
 	"dependencies": {
 		"inversify": "^5.0.1",
