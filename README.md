@@ -1,6 +1,6 @@
 # Cake.Recipe Visual Studio Code Extension
 
-This extension brings support for [Cake.Recipe](https://github.com/cake-contrib/Cake.Recipe) to Visual Studio Code
+This extension brings support for [Cake.Recipe](https://github.com/cake-contrib/Cake.Recipe) to Visual Studio Code.
 
 ## Table of Contents
 
